@@ -6,25 +6,24 @@
     "link4": { "text": "School Clubs", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-clubs" }
   },
   "stats": {
-    "totalPupils": "395",          
-    "budgetPerPupil": "£5,839",    
+    "totalPupils": "395",
+    "budgetPerPupil": "£5,839",
     "fsmPercentage": "49.3%"
   },
   "publications": [
     {
       "title": "Governors' Annual Report to Parents",
-      "url": "https://drive.google.com/file/d/1hiukyVhf4Btq1El_YsQE8PV3ZGx6TInA/view"
+      "url": "https://drive.google.com/file/d/1hiukyVhf4Btq1E1_YsQEPV3ZGx6TiNA/view"
     },
     {
       "title": "Alway Primary School Prospectus",
-      "url": "https://drive.google.com/file/d/165LqQY5Pa6-RmvnzQay60p5MwtFMUbkw/view"
+      "url": "https://drive.google.com/file/d/165LqQYSPa6-RmvnzQay60p5MwTFMUbKw/view"
     },
     {
       "title": "PDG Funding Statement Alway",
-      "url": "https://drive.google.com/file/d/1zFw5Gus6CBBFiSdjdgxU4a8JAC0GmAqW/view"
+      "url": "https://drive.google.com/file/d/1zFw5Gus6CBBFiSdjdgxU4a8JAC0GmaQW/view"
     }
-  ]
-
+  ],
   "calendar": {
     "2526": {
       "title": "ACADEMIC YEAR 2025 / 2026",
@@ -66,5 +65,4 @@
       ]
     }
   }
-
 }

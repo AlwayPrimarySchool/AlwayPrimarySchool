@@ -19,10 +19,52 @@
       "title": "Alway Primary School Prospectus",
       "url": "https://drive.google.com/file/d/165LqQY5Pa6-RmvnzQay60p5MwtFMUbkw/view"
     },
-
     {
       "title": "PDG Funding Statement Alway",
       "url": "https://drive.google.com/file/d/1zFw5Gus6CBBFiSdjdgxU4a8JAC0GmAqW/view"
     }
   ]
+
+  "calendar": {
+    "2526": {
+      "title": "ACADEMIC YEAR 2025 / 2026",
+      "terms": [
+        { "id": "autumn-25", "name": "AUTUMN TERM", "start": "2025-09-01", "end": "2025-12-19", "halfStart": "2025-10-27", "halfEnd": "2025-10-31", "startLabel": "Mon 1 Sep 2025", "endLabel": "Fri 19 Dec 2025", "halfStartLabel": "Mon 27 Oct 2025", "halfEndLabel": "Fri 31 Oct 2025" },
+        { "id": "spring-26", "name": "SPRING TERM", "start": "2026-01-05", "end": "2026-03-27", "halfStart": "2026-02-16", "halfEnd": "2026-02-20", "startLabel": "Mon 5 Jan 2026", "endLabel": "Fri 27 Mar 2026", "halfStartLabel": "Mon 16 Feb 2026", "halfEndLabel": "Fri 20 Feb 2026" },
+        { "id": "summer-26", "name": "SUMMER TERM", "start": "2026-04-13", "end": "2026-07-20", "halfStart": "2026-05-25", "halfEnd": "2026-05-29", "startLabel": "Mon 13 Apr 2026", "endLabel": "Mon 20 Jul 2026", "halfStartLabel": "Mon 25 May 2026", "halfEndLabel": "Fri 29 May 2026" }
+      ],
+      "events": [
+        { "name": "Staff Training Day", "date": "2025-10-24", "type": "inset", "displayDate": "Friday 24 Oct 2025" },
+        { "name": "Staff Training Day", "date": "2025-12-19", "type": "inset", "displayDate": "Friday 19 Dec 2025" },
+        { "name": "Christmas Day", "date": "2025-12-25", "type": "holiday", "displayDate": "Thursday 25 Dec 2025" },
+        { "name": "New Year's Day", "date": "2026-01-01", "type": "holiday", "displayDate": "Thursday 1 Jan 2026" },
+        { "name": "Staff Training Day", "date": "2026-03-27", "type": "inset", "displayDate": "Friday 27 Mar 2026" },
+        { "name": "Staff Training Day", "date": "2026-04-13", "type": "inset", "displayDate": "Monday 13 Apr 2026" },
+        { "name": "Staff Training Day", "date": "2026-06-01", "type": "inset", "displayDate": "Monday 1 Jun 2026" },
+        { "name": "Staff Training Day", "date": "2026-07-20", "type": "inset", "displayDate": "Monday 20 Jul 2026" }
+      ]
+    },
+    "2627": {
+      "title": "ACADEMIC YEAR 2026 / 2027",
+      "terms": [
+        { "id": "autumn-26", "name": "AUTUMN TERM", "start": "2026-09-01", "end": "2026-12-18", "halfStart": "2026-10-26", "halfEnd": "2026-10-30", "startLabel": "Tue 1 Sep 2026", "endLabel": "Fri 18 Dec 2026", "halfStartLabel": "Mon 26 Oct 2026", "halfEndLabel": "Fri 30 Oct 2026" },
+        { "id": "spring-27", "name": "SPRING TERM", "start": "2027-01-04", "end": "2027-03-19", "halfStart": "2027-02-08", "halfEnd": "2027-02-12", "startLabel": "Mon 4 Jan 2027", "endLabel": "Fri 19 Mar 2027", "halfStartLabel": "Mon 8 Feb 2027", "halfEndLabel": "Fri 12 Feb 2027" },
+        { "id": "summer-27", "name": "SUMMER TERM", "start": "2027-04-05", "end": "2027-07-20", "halfStart": "2027-05-31", "halfEnd": "2027-06-04", "startLabel": "Mon 5 Apr 2027", "endLabel": "Tue 20 Jul 2027", "halfStartLabel": "Mon 31 May 2027", "halfEndLabel": "Fri 4 Jun 2027" }
+      ],
+      "events": [
+        { "name": "Staff Training Day", "date": "2026-10-02", "type": "inset", "displayDate": "Friday 2 Oct 2026" },
+        { "name": "Staff Training Day", "date": "2026-11-02", "type": "inset", "displayDate": "Monday 2 Nov 2026" },
+        { "name": "Staff Training Day", "date": "2026-12-18", "type": "inset", "displayDate": "Friday 18 Dec 2026" },
+        { "name": "New Year's Day", "date": "2027-01-01", "type": "holiday", "displayDate": "Friday 1 Jan 2027" },
+        { "name": "Good Friday", "date": "2027-03-26", "type": "holiday", "displayDate": "Friday 26 Mar 2027" },
+        { "name": "Easter Monday", "date": "2027-03-29", "type": "holiday", "displayDate": "Monday 29 Mar 2027" },
+        { "name": "Staff Training Day", "date": "2027-04-30", "type": "inset", "displayDate": "Friday 30 Apr 2027" },
+        { "name": "Early May bank holiday", "date": "2027-05-03", "type": "holiday", "displayDate": "Monday 3 May 2027" },
+        { "name": "Staff Training Day", "date": "2027-05-04", "type": "inset", "displayDate": "Tuesday 4 May 2027" },
+        { "name": "Spring bank holiday", "date": "2027-05-31", "type": "holiday", "displayDate": "Monday 31 May 2027" },
+        { "name": "Summer bank holiday", "date": "2027-08-30", "type": "holiday", "displayDate": "Monday 30 Aug 2027" }
+      ]
+    }
+  }
+
 }

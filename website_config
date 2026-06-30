@@ -1,4 +1,9 @@
 {
+  "bannerImages": [
+    "https://github.com/AlwayPrimarySchool/AlwayPrimarySchool/blob/main/School_with_faint_white_grid.png?raw=true",
+    "https://github.com/AlwayPrimarySchool/AlwayPrimarySchool/blob/main/background.jpg?raw=true",
+    "https://example.com/your-third-slideshow-image.png"
+  ],
   "navigation": {
     "link1": { "text": "School Calendar", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-calendar" },
     "link2": { "text": "School Visitors", "url": "https://www.alwayprimaryschool.co.uk/cysylltwch-contact-us" },
@@ -7,7 +12,7 @@
   },
   "stats": {
     "totalPupils": "395",
-    "budgetPerPupil": "£5,839",
+    "pupilAttendance": "92.4%",
     "fsmPercentage": "49.3%"
   },
   "publications": [
@@ -41,27 +46,6 @@
         { "name": "Staff Training Day", "date": "2026-04-13", "type": "inset", "displayDate": "Monday 13 Apr 2026" },
         { "name": "Staff Training Day", "date": "2026-06-01", "type": "inset", "displayDate": "Monday 1 Jun 2026" },
         { "name": "Staff Training Day", "date": "2026-07-20", "type": "inset", "displayDate": "Monday 20 Jul 2026" }
-      ]
-    },
-    "2627": {
-      "title": "ACADEMIC YEAR 2026 / 2027",
-      "terms": [
-        { "id": "autumn-26", "name": "AUTUMN TERM", "start": "2026-09-01", "end": "2026-12-18", "halfStart": "2026-10-26", "halfEnd": "2026-10-30", "startLabel": "Tue 1 Sep 2026", "endLabel": "Fri 18 Dec 2026", "halfStartLabel": "Mon 26 Oct 2026", "halfEndLabel": "Fri 30 Oct 2026" },
-        { "id": "spring-27", "name": "SPRING TERM", "start": "2027-01-04", "end": "2027-03-19", "halfStart": "2027-02-08", "halfEnd": "2027-02-12", "startLabel": "Mon 4 Jan 2027", "endLabel": "Fri 19 Mar 2027", "halfStartLabel": "Mon 8 Feb 2027", "halfEndLabel": "Fri 12 Feb 2027" },
-        { "id": "summer-27", "name": "SUMMER TERM", "start": "2027-04-05", "end": "2027-07-20", "halfStart": "2027-05-31", "halfEnd": "2027-06-04", "startLabel": "Mon 5 Apr 2027", "endLabel": "Tue 20 Jul 2027", "halfStartLabel": "Mon 31 May 2027", "halfEndLabel": "Fri 4 Jun 2027" }
-      ],
-      "events": [
-        { "name": "Staff Training Day", "date": "2026-10-02", "type": "inset", "displayDate": "Friday 2 Oct 2026" },
-        { "name": "Staff Training Day", "date": "2026-11-02", "type": "inset", "displayDate": "Monday 2 Nov 2026" },
-        { "name": "Staff Training Day", "date": "2026-12-18", "type": "inset", "displayDate": "Friday 18 Dec 2026" },
-        { "name": "New Year's Day", "date": "2027-01-01", "type": "holiday", "displayDate": "Friday 1 Jan 2027" },
-        { "name": "Good Friday", "date": "2027-03-26", "type": "holiday", "displayDate": "Friday 26 Mar 2027" },
-        { "name": "Easter Monday", "date": "2027-03-29", "type": "holiday", "displayDate": "Monday 29 Mar 2027" },
-        { "name": "Staff Training Day", "date": "2027-04-30", "type": "inset", "displayDate": "Friday 30 Apr 2027" },
-        { "name": "Early May bank holiday", "date": "2027-05-03", "type": "holiday", "displayDate": "Monday 3 May 2027" },
-        { "name": "Staff Training Day", "date": "2027-05-04", "type": "inset", "displayDate": "Tuesday 4 May 2027" },
-        { "name": "Spring bank holiday", "date": "2027-05-31", "type": "holiday", "displayDate": "Monday 31 May 2027" },
-        { "name": "Summer bank holiday", "date": "2027-08-30", "type": "holiday", "displayDate": "Monday 30 Aug 2027" }
       ]
     }
   }

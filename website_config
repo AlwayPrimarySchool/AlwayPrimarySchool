@@ -2,7 +2,6 @@
   "bannerImages": [
     "https://github.com/AlwayPrimarySchool/AlwayPrimarySchool/blob/main/School_with_faint_white_grid.png?raw=true",
     "https://github.com/AlwayPrimarySchool/AlwayPrimarySchool/blob/main/background.jpg?raw=true",
-    "https://example.com/your-third-slideshow-image.png"
   ],
   "navigation": {
     "link1": { "text": "School Calendar", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-calendar" },

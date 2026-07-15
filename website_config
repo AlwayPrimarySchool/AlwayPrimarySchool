@@ -55,18 +55,20 @@
         { "id": "summer-27", "name": "SUMMER TERM", "start": "2027-04-05", "end": "2027-07-20", "halfStart": "2027-05-31", "halfEnd": "2027-06-04", "startLabel": "Mon 5 Apr 2027", "endLabel": "Tue 20 Jul 2027", "halfStartLabel": "Mon 31 May 2027", "halfEndLabel": "Fri 4 Jun 2027" }
       ],
       "events": [
-        { "name": "Staff Training Day", "date": "2026-10-02", "type": "inset", "displayDate": "Friday 2 Oct 2026" },
-        { "name": "Staff Training Day", "date": "2026-11-02", "type": "inset", "displayDate": "Monday 2 Nov 2026" },
-        { "name": "Staff Training Day", "date": "2026-12-18", "type": "inset", "displayDate": "Friday 18 Dec 2026" },
-        { "name": "New Year's Day", "date": "2027-01-01", "type": "holiday", "displayDate": "Friday 1 Jan 2027" },
-        { "name": "Good Friday", "date": "2027-03-26", "type": "holiday", "displayDate": "Friday 26 Mar 2027" },
-        { "name": "Easter Monday", "date": "2027-03-29", "type": "holiday", "displayDate": "Monday 29 Mar 2027" },
-        { "name": "Staff Training Day", "date": "2027-04-30", "type": "inset", "displayDate": "Friday 30 Apr 2027" },
-        { "name": "Early May bank holiday", "date": "2027-05-03", "type": "holiday", "displayDate": "Monday 3 May 2027" },
-        { "name": "Staff Training Day", "date": "2027-05-04", "type": "inset", "displayDate": "Tuesday 4 May 2027" },
-        { "name": "Spring bank holiday", "date": "2027-05-31", "type": "holiday", "displayDate": "Monday 31 May 2027" },
-        { "name": "Summer bank holiday", "date": "2027-08-30", "type": "holiday", "displayDate": "Monday 30 Aug 2027" }
-      ]
+  { "name": "Individual Portraits (Pupils & Staff)", "date": "2026-10-01", "type": "event", "displayDate": "Thursday 1 Oct 2026" },
+  { "name": "Staff Training Day", "date": "2026-10-02", "type": "inset", "displayDate": "Friday 2 Oct 2026" },
+  { "name": "Staff Training Day", "date": "2026-11-02", "type": "inset", "displayDate": "Monday 2 Nov 2026" },
+  { "name": "Staff Training Day", "date": "2026-12-18", "type": "inset", "displayDate": "Friday 18 Dec 2026" },
+  { "name": "New Year's Day", "date": "2027-01-01", "type": "holiday", "displayDate": "Friday 1 Jan 2027" },
+  { "name": "Good Friday", "date": "2027-03-26", "type": "holiday", "displayDate": "Friday 26 Mar 2027" },
+  { "name": "Easter Monday", "date": "2027-03-29", "type": "holiday", "displayDate": "Monday 29 Mar 2027" },
+  { "name": "Staff Training Day", "date": "2027-04-30", "type": "inset", "displayDate": "Friday 30 Apr 2027" },
+  { "name": "Early May bank holiday", "date": "2027-05-03", "type": "holiday", "displayDate": "Monday 3 May 2027" },
+  { "name": "Staff Training Day", "date": "2027-05-04", "type": "inset", "displayDate": "Tuesday 4 May 2027" },
+  { "name": "Y6 Leavers & Class Photos", "date": "2027-05-06", "type": "event", "displayDate": "Thursday 6 May 2027" },
+  { "name": "Spring bank holiday", "date": "2027-05-31", "type": "holiday", "displayDate": "Monday 31 May 2027" },
+  { "name": "Summer bank holiday", "date": "2027-08-30", "type": "holiday", "displayDate": "Monday 30 Aug 2027" }
+]
     }
   }
 }

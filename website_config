@@ -60,7 +60,7 @@
   { "name": "Staff Training Day", "date": "2026-11-02", "type": "inset", "displayDate": "Monday 2 Nov 2026" },
   { "name": "Staff Training Day", "date": "2026-12-18", "type": "inset", "displayDate": "Friday 18 Dec 2026" },
   { "name": "New Year's Day", "date": "2027-01-01", "type": "holiday", "displayDate": "Friday 1 Jan 2027" },
-  { "name": "Class & Year 6 Leavers Photos", "date": "2027-03-15", "type": "event", "displayDate": "Monday 15 Mar 2027" }
+  { "name": "Class & Year 6 Leavers Photos", "date": "2027-03-15", "type": "event", "displayDate": "Monday 15 Mar 2027" },
   { "name": "Good Friday", "date": "2027-03-26", "type": "holiday", "displayDate": "Friday 26 Mar 2027" },
   { "name": "Easter Monday", "date": "2027-03-29", "type": "holiday", "displayDate": "Monday 29 Mar 2027" },
   { "name": "Staff Training Day", "date": "2027-04-30", "type": "inset", "displayDate": "Friday 30 Apr 2027" },

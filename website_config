@@ -68,6 +68,7 @@
   { "name": "Early May bank holiday", "date": "2027-05-03", "type": "holiday", "displayDate": "Monday 3 May 2027" },
   { "name": "Staff Training Day", "date": "2027-05-04", "type": "inset", "displayDate": "Tuesday 4 May 2027" },
   { "name": "Spring bank holiday", "date": "2027-05-31", "type": "holiday", "displayDate": "Monday 31 May 2027" },
+  { "name": "Staff Training Day", "date": "2027-06-07", "type": "inset", "displayDate": "Monday 7 June 2027" },
   { "name": "Summer bank holiday", "date": "2027-08-30", "type": "holiday", "displayDate": "Monday 30 Aug 2027" }
 ]
     }

@@ -38,6 +38,7 @@
         { "id": "summer-27", "name": "SUMMER TERM", "start": "2027-04-05", "end": "2027-07-20", "halfStart": "2027-05-31", "halfEnd": "2027-06-04", "startLabel": "Mon 5 Apr 2027", "endLabel": "Tue 20 Jul 2027", "halfStartLabel": "Mon 31 May 2027", "halfEndLabel": "Fri 4 Jun 2027" }
       ],
       "events": [
+  { "name": "Pupils Return to School", "date": "2026-09-01", "type": "event", "displayDate": "Tuesday 1 Sep 2026" },
   { "name": "Individual School Photos", "date": "2026-09-21", "type": "event", "displayDate": "Monday 21 Sep 2026" },
   { "name": "Staff Training Day", "date": "2026-10-02", "type": "inset", "displayDate": "Friday 2 Oct 2026" },
   { "name": "Staff Training Day", "date": "2026-11-02", "type": "inset", "displayDate": "Monday 2 Nov 2026" },

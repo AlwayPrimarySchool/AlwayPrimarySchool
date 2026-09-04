@@ -52,7 +52,18 @@
   { "name": "Staff Training Day", "date": "2027-05-04", "type": "inset", "displayDate": "Tuesday 4 May 2027" },
   { "name": "Spring bank holiday", "date": "2027-05-31", "type": "holiday", "displayDate": "Monday 31 May 2027" },
   { "name": "Staff Training Day", "date": "2027-06-07", "type": "inset", "displayDate": "Monday 7 June 2027" },
-  { "name": "Summer bank holiday", "date": "2027-08-30", "type": "holiday", "displayDate": "Monday 30 Aug 2027" }
+  { "name": "Summer bank holiday", "date": "2027-08-30", "type": "holiday", "displayDate": "Monday 30 Aug 2027" },
+
+  { "name": "Year 6 Transition Visit to Llanwern HS - Science & Technology", "date": "2026-09-15", "type": "event", "displayDate": "Tuesday 15 Sep 2026" },
+  { "name": "Year 6 Transition Visit to Llanwern HS - Expressive Arts", "date": "2026-10-06", "type": "event", "displayDate": "Tuesday 6 Oct 2026" },
+  { "name": "Year 6 Transition Visit to Llanwern HS - Humanities", "date": "2026-11-10", "type": "event", "displayDate": "Tuesday 10 Nov 2026" },
+  { "name": "Year 6 Transition Visit to Llanwern HS - LLC", "date": "2027-01-05", "type": "event", "displayDate": "Tuesday 5 Jan 2027" },
+  { "name": "Year 5 Transition Visit to Llanwern HS - Science & Technology", "date": "2027-02-16", "type": "event", "displayDate": "Tuesday 16 Feb 2027" },
+  { "name": "Year 5 Transition Visit to Llanwern HS - Expressive Arts", "date": "2027-04-13", "type": "event", "displayDate": "Tuesday 13 Apr 2027" },
+  { "name": "Year 5 Transition Visit to Llanwern HS - Humanities", "date": "2027-05-25", "type": "event", "displayDate": "Tuesday 25 May 2027" },
+  { "name": "Year 5 Transition Visit to Llanwern HS - LLC", "date": "2027-06-29", "type": "event", "displayDate": "Tuesday 29 Jun 2027" }
+
+
 ]
     }
   }

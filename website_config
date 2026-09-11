@@ -61,8 +61,10 @@
   { "name": "Year 5 Transition Visit to Llanwern HS - Science & Technology", "date": "2027-02-16", "type": "event", "displayDate": "Tuesday 16 Feb 2027" },
   { "name": "Year 5 Transition Visit to Llanwern HS - Expressive Arts", "date": "2027-04-13", "type": "event", "displayDate": "Tuesday 13 Apr 2027" },
   { "name": "Year 5 Transition Visit to Llanwern HS - Humanities", "date": "2027-05-25", "type": "event", "displayDate": "Tuesday 25 May 2027" },
-  { "name": "Year 5 Transition Visit to Llanwern HS - LLC", "date": "2027-06-29", "type": "event", "displayDate": "Tuesday 29 Jun 2027" }
+  { "name": "Year 5 Transition Visit to Llanwern HS - LLC", "date": "2027-06-29", "type": "event", "displayDate": "Tuesday 29 Jun 2027" },
 
+  { "name": "Y5 and LRB Techniquest Trip", "date": "2026-09-18", "type": "event", "displayDate": "Friday 18 Sep 2026" },
+  { "name": "R - Y6 Flu Immunisation", "date": "2026-10-19", "type": "event", "displayDate": "Monday 19 Oct 2026" }
 
 ]
     }

@@ -64,7 +64,22 @@
   { "name": "Year 5 Transition Visit to Llanwern HS - LLC", "date": "2027-06-29", "type": "event", "displayDate": "Tuesday 29 Jun 2027" },
 
   { "name": "Y5 and LRB Techniquest Trip", "date": "2026-09-18", "type": "event", "displayDate": "Friday 18 Sep 2026" },
-  { "name": "R - Y6 Flu Immunisation", "date": "2026-10-19", "type": "event", "displayDate": "Monday 19 Oct 2026" }
+  { "name": "R - Y6 Flu Immunisation", "date": "2026-10-19", "type": "event", "displayDate": "Monday 19 Oct 2026" },
+
+  { "name": "Hello Yellow (Mental Health Week)", "date": "2026-10-09", "type": "event", "displayDate": "Friday 9 Oct 2026" },
+  { "name": "Harvest Donations Open", "date": "2026-10-12", "type": "event", "displayDate": "Monday 12 Oct 2026" },
+  { "name": "Meet the Teacher & Proud to Share", "date": "2026-10-14", "type": "event", "displayDate": "Wednesday 14 Oct 2026" },
+  { "name": "Y6 Crucial Crew Trip", "date": "2026-10-14", "type": "trip", "displayDate": "Wednesday 14 Oct 2026" },
+  { "name": "Shwmae Day", "date": "2026-10-15", "type": "event", "displayDate": "Thursday 15 Oct 2026" },
+  { "name": "Show Racism the Red Card", "date": "2026-10-16", "type": "event", "displayDate": "Friday 16 Oct 2026" },
+  { "name": "Parent Consultations", "date": "2026-10-19", "type": "event", "displayDate": "Monday 19 Oct 2026" },
+  { "name": "Parent Consultations", "date": "2026-10-20", "type": "event", "displayDate": "Tuesday 20 Oct 2026" },
+  { "name": "Harvest Donation Deadline", "date": "2026-10-19", "type": "event", "displayDate": "Monday 19 Oct 2026" },
+  { "name": "Harvest Celebrations", "date": "2026-10-22", "type": "event", "displayDate": "Thursday 22 Oct 2026" },
+  { "name": "Last Day of Half Term", "date": "2026-10-23", "type": "event", "displayDate": "Friday 23 Oct 2026" },
+  { "name": "October Half Term Begins", "date": "2026-10-26", "type": "holiday", "displayDate": "Monday 26 Oct 2026" },
+  { "name": "October Half Term Ends", "date": "2026-10-30", "type": "holiday", "displayDate": "Friday 30 Oct 2026" },
+  { "name": "Pupils Return to School", "date": "2026-11-03", "type": "event", "displayDate": "Tuesday 3 Nov 2026" }
 
 ]
     }

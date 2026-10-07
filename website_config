@@ -79,7 +79,8 @@
   { "name": "Last Day of Half Term", "date": "2026-10-23", "type": "event", "displayDate": "Friday 23 Oct 2026" },
   { "name": "October Half Term Begins", "date": "2026-10-26", "type": "holiday", "displayDate": "Monday 26 Oct 2026" },
   { "name": "October Half Term Ends", "date": "2026-10-30", "type": "holiday", "displayDate": "Friday 30 Oct 2026" },
-  { "name": "Pupils Return to School", "date": "2026-11-03", "type": "event", "displayDate": "Tuesday 3 Nov 2026" }
+  { "name": "Pupils Return to School", "date": "2026-11-03", "type": "event", "displayDate": "Tuesday 3 Nov 2026" },
+  { "name": "Red Nose Day", "date": "2027-03-19", "type": "event", "displayDate": "Friday 19 Mar 2027" }
 
 ]
     }

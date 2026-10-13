@@ -4,12 +4,28 @@
 "https://raw.githubusercontent.com/AlwayPrimarySchool/AlwayPrimarySchool/refs/heads/main/school_field.jpg?raw=true",
     "https://github.com/AlwayPrimarySchool/AlwayPrimarySchool/blob/main/background.jpg?raw=true"
   ],
+
+  "officeForms": [
+    {
+      "title": "Leave of Absence Request Form",
+      "url": "https://forms.office.com"
+    }
+  ],
+
   "navigation": {
     "link1": { "text": "School Calendar", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-calendar" },
     "link2": { "text": "School Office", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-office" },
     "link3": { "text": "School Policies", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-policies" },
     "link4": { "text": "School Clubs", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-clubs" }
   },
+
+  "officeForms": [
+    {
+      "title": "Leave of Absence Request Form",
+      "url": "https://forms.office.com/YOUR_MICROSOFT_FORM_LINK"
+    }
+  ]
+
   "stats": {
     "totalPupils": "395",
     "pupilAttendance": "89.3%",

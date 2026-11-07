@@ -12,6 +12,9 @@
     }
   ],
 
+  "accidentLogUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Ug4_TzS3ZEGUCRtgHRR5kwX1afYqluBBlmRWd8Lrv59UMTRDMFE0UVZJRko4VloyWFZOUTQ3QlFDTSQlQCN0PWcu&route=shorturl",
+  "nccFormDownloadUrl": "https://hwbwave15.sharepoint.com/:w:/s/AlwayPrimarySchool-Businessmanagement/IQAVEsB0IcvRTKiRCh25HJ3rAf4r5SQfAoCn83ZND-bUhmQ",
+
   "navigation": {
     "link1": { "text": "School Calendar", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-calendar" },
     "link2": { "text": "School Office", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-office" },

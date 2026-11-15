@@ -26,6 +26,178 @@
   "accidentLogUrl": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Ug4_TzS3ZEGUCRtgHRR5kwX1afYqluBBlmRWd8Lrv59UMTRDMFE0UVZJRko4VloyWFZOUTQ3QlFDTSQlQCN0PWcu&route=shorturl",
   "nccFormDownloadUrl": "https://hwbwave15.sharepoint.com/:w:/s/AlwayPrimarySchool-Businessmanagement/IQAVEsB0IcvRTKiRCh25HJ3rAf4r5SQfAoCn83ZND-bUhmQ",
 
+    "staffHomepage": {
+    "apps": [
+      {
+        "title": "SIMS Connected",
+        "url": "https://id.sims.co.uk/",
+        "icon": "users",
+        "colour": "#5b1f9e"
+      },
+      {
+        "title": "Edu Key",
+        "url": "https://edukeyapp.com/account/login",
+        "icon": "key",
+        "colour": "#0ea5e9"
+      },
+      {
+        "title": "Microsoft Office 365",
+        "url": "https://hwbwave15-my.sharepoint.com/",
+        "icon": "grid",
+        "colour": "#3f51b5"
+      },
+      {
+        "title": "Google Drive",
+        "url": "https://drive.google.com/drive/",
+        "icon": "drive",
+        "colour": "#8d3027"
+      },
+      {
+        "title": "Safeguarding Wales",
+        "url": "https://safeguarding.wales/en/",
+        "icon": "shield",
+        "colour": "#1f6a63"
+      },
+      {
+        "title": "Staff Meetings",
+        "url": "https://drive.google.com/drive/folders/19rLMc5otq82rsyx2Ve-4HEZRSZo__eUV?usp=drive_link",
+        "icon": "chat",
+        "colour": "#f2b705",
+        "textColour": "#3b2a00"
+      },
+      {
+        "title": "Accelerated Reader",
+        "url": "https://login.renaissance.com/12d2c833-f544-412f-8fcc-cc9ee9120a19?state=178773c8-decc-4be5-b59a-4c2bafcf4fea",
+        "icon": "book",
+        "colour": "#16a34a"
+      },
+      {
+        "title": "My Concern",
+        "url": "https://login.thesafeguardingcompany.com/Identity/Account/Login?ReturnUrl=%2F",
+        "icon": "flag",
+        "colour": "#f28c0f"
+      },
+      {
+        "title": "3CX Phones",
+        "url": "http://phones.alwayprimaryschool.co.uk/",
+        "iconText": "3CX",
+        "colour": "#1f2328"
+      }
+    ],
+    "info": [
+      {
+        "title": "School Calendar",
+        "description": "School calendar and dates",
+        "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/calendar",
+        "icon": "calendar"
+      },
+      {
+        "title": "Safeguarding",
+        "description": "Important safeguarding info",
+        "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/safeguarding",
+        "icon": "shield"
+      },
+      {
+        "title": "Our Workplace",
+        "description": "Absences, pay slips etc.",
+        "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/our-workplace",
+        "icon": "building"
+      },
+      {
+        "title": "School Policies",
+        "description": "School and staff policies",
+        "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/policies",
+        "icon": "folder"
+      },
+      {
+        "title": "Health & Safety",
+        "description": "Site health and safety info",
+        "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/health-safety",
+        "icon": "hardhat"
+      },
+      {
+        "title": "Resource Guides",
+        "description": "How-to guides and resources",
+        "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/resource-guides",
+        "icon": "compass"
+      }
+    ],
+    "forms": [
+      {
+        "title": "Health & Safety",
+        "colour": "#e11d48",
+        "items": [
+          {
+            "title": "Report a Hazard / Request Works",
+            "type": "Microsoft Form",
+            "url": "https://forms.cloud.microsoft/e/YXAXFbSe7r",
+            "icon": "alert"
+          },
+          {
+            "title": "Accident / Near Miss Reporting",
+            "type": "Staff page",
+            "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/accident-and-near-miss-reporting",
+            "icon": "firstaid"
+          },
+          {
+            "title": "Violent Incident Reporting (VAW)",
+            "type": "Staff page",
+            "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/violence-at-work-reporting-form",
+            "icon": "octagon"
+          }
+        ]
+      },
+      {
+        "title": "Pupils & Behaviour",
+        "colour": "#2563eb",
+        "items": [
+          {
+            "title": "Behaviour & Relationships",
+            "type": "Microsoft Form",
+            "url": "https://forms.cloud.microsoft/e/wcCigGrtSQ",
+            "icon": "filetext"
+          },
+          {
+            "title": "Behaviour Log",
+            "type": "Template",
+            "url": "https://docs.google.com/document/d/1ge1i4F1ZU7hbxiSZqCFwY6JVI0S4UeMR/edit?usp=sharing&ouid=108131531349801902202&rtpof=true&sd=true",
+            "icon": "pencil"
+          },
+          {
+            "title": "Recording Incidents",
+            "type": "Template",
+            "url": "https://docs.google.com/document/d/1zTSr8AxHh_hX8hK9-lc7inOGdSyfw1y-/edit?usp=sharing&ouid=108131531349801902202&rtpof=true&sd=true",
+            "icon": "notebook"
+          }
+        ]
+      },
+      {
+        "title": "Staff & Procurement",
+        "colour": "#0f7f27",
+        "items": [
+          {
+            "title": "Procurement Request",
+            "type": "Microsoft Form",
+            "url": "https://forms.microsoft.com/e/AeKnNuNf50",
+            "icon": "cart"
+          },
+          {
+            "title": "School Private Fund",
+            "type": "Staff page",
+            "url": "https://sites.google.com/alwayprimaryschool.co.uk/staff/school-private-fund",
+            "icon": "bank"
+          },
+          {
+            "title": "Staff Training Record",
+            "type": "Microsoft Form",
+            "url": "https://forms.office.com/e/n4PKUUJgjH",
+            "icon": "clipboard"
+          }
+        ]
+      }
+    ]
+  },
+
   "navigation": {
     "link1": { "text": "School Calendar", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-calendar" },
     "link2": { "text": "School Office", "url": "https://www.alwayprimaryschool.co.uk/gwybodaeth-school-information/school-office" },

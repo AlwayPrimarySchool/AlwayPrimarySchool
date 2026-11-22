@@ -94,8 +94,8 @@
       {
         "title": "Outlook Email",
         "url": "https://outlook.cloud.microsoft/mail/",
-        "icon": "flag",
-        "colour": "#f28c0f"
+        "icon": "mail",
+        "colour": "#0078d4"
       }
 
     ],

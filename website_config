@@ -90,7 +90,14 @@
         "url": "http://phones.alwayprimaryschool.co.uk/",
         "iconText": "3CX",
         "colour": "#1f2328"
+      },
+      {
+        "title": "Outlook Email",
+        "url": "https://outlook.cloud.microsoft/mail/",
+        "icon": "flag",
+        "colour": "#f28c0f"
       }
+
     ],
     "info": [
       {
